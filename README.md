@@ -39,10 +39,10 @@ project_docker/
 
 ### Installation & Running
 
-1. **Clone or navigate to the project directory:**
+1. **Clone the repo:**
 
    ```bash
-   cd project_docker
+   git clone https://github.com/YoussefAbbar/Projet-Docker.git
    ```
 
 2. **Start all services:**
